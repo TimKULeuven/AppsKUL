@@ -1,5 +1,5 @@
 dependencies:
-	-numpy
-	-matplotlib
-	-scipy
-	-IPython
+  - numpy
+  - matplotlib
+  - scipy
+  - IPython
